@@ -1,4 +1,4 @@
-//aula 5 exercício 1
+//aula 5 exercÃ­cio 1
 #include <iostream>
 using namespace std;
 int main(){
